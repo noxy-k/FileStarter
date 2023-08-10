@@ -31,3 +31,7 @@ Simple processes (e.g. notepad) just create a new window and will work easily.  
 ## Links
 
 The multiple desktop logic is in the VirtualDesktop.ps1 file which is a direct copy from [PSVirtualDesktop](https://github.com/MScholtes/TechNet-Gallery/tree/master/VirtualDesktop)
+
+## Updates
+
+10/08/2023 - Forked and updated the virtual desktop logic for win11 compatibility. tested.
